@@ -3,3 +3,8 @@ ece
 cse
 ecm
 eee
+
+
+
+mech
+diploma
