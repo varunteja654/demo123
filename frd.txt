@@ -8,3 +8,8 @@ eee
 
 mech
 diploma
+
+java 
+c 
+python
+
